@@ -8,9 +8,7 @@ http
 mrt:moment@2.8.1
 accounts-base
 accounts-ui-unstyled
-accounts-twitter
 less
-mrt:server-eval@0.5.0
 service-configuration
 mrt:publish-with-relations@0.1.5
 mizzao:bootstrap-3
